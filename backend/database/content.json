@@ -1,0 +1,648 @@
+{
+  "home": {
+    "hero_texts": [
+      "Automate Your Instagram DM's",
+      "No Facebook page needed",
+      "Cheapest DM service ever"
+    ],
+    "stats": [
+      {
+        "value": "22,000+",
+        "label": "Happy Users"
+      },
+      {
+        "value": "120M+",
+        "label": "Messages Sent"
+      },
+      {
+        "value": "95%",
+        "label": "Response Rate"
+      },
+      {
+        "value": "10x",
+        "label": "More Engagement"
+      }
+    ],
+    "suite": [
+      {
+        "icon": "MousePointerClick",
+        "title": "Button Template for Links",
+        "description": "Send template-driven DM replies with tappable buttons that route people to links, offers, or the next step."
+      },
+      {
+        "icon": "Link2",
+        "title": "Super Profile",
+        "description": "Create a public link-in-bio page with branded buttons, icons, and ordered links for your Instagram account."
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Post Comment to DM",
+        "description": "Trigger private DM replies from post comments using keywords or all-comments mode on your selected post."
+      },
+      {
+        "icon": "Send",
+        "title": "Post Comment Reply",
+        "description": "Post a public comment reply when a post-comment automation matches, so the response is visible on the post too."
+      },
+      {
+        "icon": "Layers",
+        "title": "Post Comment Reply + DM",
+        "description": "Combine a public comment reply with a private DM from the same post-comment automation flow."
+      },
+      {
+        "icon": "Share2",
+        "title": "Post Share to DM",
+        "description": "Send an automated follow-up when someone shares your post into Instagram DMs."
+      },
+      {
+        "icon": "Send",
+        "title": "Reel Comment Reply",
+        "description": "Reply publicly on Reel comments when a Reel automation matches your trigger setup."
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Reel Comment to DM",
+        "description": "Turn Reel comments into private DM conversations with keyword or all-comments triggers."
+      },
+      {
+        "icon": "Layers",
+        "title": "Reel Comment Reply + DM",
+        "description": "Run both the public comment reply and the private DM when users comment on a Reel."
+      },
+      {
+        "icon": "Share2",
+        "title": "Reel Share to DM",
+        "description": "Respond automatically when someone shares your Reel into DMs and keep that intent moving forward."
+      },
+      {
+        "icon": "ImageIcon",
+        "title": "Story Mention to DM",
+        "description": "Send a template-based DM when someone mentions your account in their Instagram Story."
+      },
+      {
+        "icon": "MessageCircle",
+        "title": "Story Reply to DM",
+        "description": "Reply to active Story responses with DM automations while the Story is still live."
+      },
+      {
+        "icon": "Radio",
+        "title": "Instagram Live Automation",
+        "description": "Prepare live comment automations in advance with one all-comments rule, up to five keywords, and optional public replies."
+      },
+      {
+        "icon": "Eye",
+        "title": "Seen + Typing Reaction",
+        "description": "Stage seen and typing behavior in supported automation editors so future reply flows feel more natural."
+      },
+      {
+        "icon": "MousePointerClick",
+        "title": "Button Template",
+        "description": "Pair messages with up to three actionable CTA buttons leading to direct URLs or sub-flows."
+      },
+      {
+        "icon": "Layers",
+        "title": "Carousel Template",
+        "description": "Showcase up to 10 swipeable visual cards in DMs with product photos, titles, and direct purchase buttons."
+      },
+      {
+        "icon": "Zap",
+        "title": "Quick Replies Template",
+        "description": "Provide horizontal scrollable tap chips for one-tap answers, guided quizzes, and fast product discovery."
+      },
+      {
+        "icon": "ImageIcon",
+        "title": "Media & Share Templates",
+        "description": "Deliver high-resolution lookbooks, video guides, and native Instagram post or Reel embeds inside chat."
+      },
+      {
+        "icon": "SparkIcon",
+        "title": "Suggest More",
+        "description": "Send a dedicated Suggest More template after supported replies to offer additional options, products, or next steps."
+      },
+      {
+        "icon": "Shield",
+        "title": "Comment Moderation",
+        "description": "Manage separate hide and delete keyword lists for comments, with moderation words kept exclusive from automations and global triggers."
+      },
+      {
+        "icon": "Users",
+        "title": "Followers Only",
+        "description": "Gate supported automations until the user follows your account, with a custom message for non-followers."
+      }
+    ],
+    "why": [
+      {
+        "icon": "Bot",
+        "title": "Smart Automation",
+        "description": "Set up automated message sequences based on triggers and user interactions."
+      },
+      {
+        "icon": "Users",
+        "title": "Audience Segmentation",
+        "description": "Target specific user groups with personalized messages for better engagement."
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Performance Analytics",
+        "description": "Track your campaign performance with detailed analytics and reports."
+      }
+    ],
+    "steps": [
+      {
+        "icon": "Link2",
+        "title": "Connect Account",
+        "description": "Securely link your Instagram account to DM Panda."
+      },
+      {
+        "icon": "Settings",
+        "title": "Set Up Campaigns",
+        "description": "Define your target audience and create your message sequences."
+      },
+      {
+        "icon": "Rocket",
+        "title": "Launch & Monitor",
+        "description": "Start your automation and track results through the dashboard."
+      }
+    ]
+  },
+  "features": {
+    "items": [
+      {
+        "id": "reel-comment",
+        "name": "Reel Comment Automation",
+        "category": "automations",
+        "categoryLabel": "Viral Content",
+        "badge": "Most Popular",
+        "stat": "10x Engagement Rate",
+        "featured": true,
+        "description": "Instantly send a targeted, personalized DM to every viewer who comments on your viral Instagram Reels.",
+        "benefit": "Turns viral Reels into high-converting sales funnels without manual community management.",
+        "image": "/images/reel_comment_dm_reply.png"
+      },
+      {
+        "id": "post-comment",
+        "name": "Post Comment Automation",
+        "category": "automations",
+        "categoryLabel": "Feed Automation",
+        "description": "Automatically trigger private DMs and public replies the moment someone comments on your Instagram feed posts.",
+        "benefit": "Captures hot buyer intent in under 0.4 seconds while commenters are still active on your post.",
+        "image": "/images/post_comment_dm_reply.png"
+      },
+      {
+        "id": "live-automation",
+        "name": "Instagram Live Automation",
+        "category": "automations",
+        "categoryLabel": "Live Streaming",
+        "badge": "High Conversion",
+        "stat": "Zero Viewer Dropoff",
+        "featured": true,
+        "description": "Deliver instant checkout links, discount codes, and resources when live viewers type your trigger keyword in the stream chat.",
+        "benefit": "Monetize broadcasts effortlessly without typing links in the live comments or losing viewer attention.",
+        "image": "/images/live_automation.png"
+      },
+      {
+        "id": "story-mention",
+        "name": "Story Mention Automation",
+        "category": "automations",
+        "categoryLabel": "UGC & Loyalty",
+        "description": "Automatically thank followers with customized VIP discounts whenever they @mention your account in their Stories.",
+        "benefit": "Incentivizes viral user-generated content and rewards genuine brand advocates automatically.",
+        "image": "/images/story_mention_dm_reply.png"
+      },
+      {
+        "id": "story-reply",
+        "name": "Story Reply Automation",
+        "category": "automations",
+        "categoryLabel": "Stories",
+        "description": "Deliver instant direct message responses whenever users react or reply directly to your active 24-hour Stories.",
+        "benefit": "Converts ephemeral Story interactions into permanent, automated customer relationships.",
+        "image": "/images/story_reply_dm_reply.png"
+      },
+      {
+        "id": "ad-comment",
+        "name": "Sponsored Ad Comment Automation",
+        "category": "automations",
+        "categoryLabel": "Paid Media",
+        "description": "Send private, personalized direct messages to high-intent users who comment on your Meta sponsored ads.",
+        "benefit": "Maximizes ROAS by converting expensive paid ad commenters into one-on-one sales discussions.",
+        "image": "/images/sponsored_ad_comment_reply.png"
+      },
+      {
+        "id": "welcome-message",
+        "name": "Welcome Message",
+        "category": "templates",
+        "categoryLabel": "Onboarding",
+        "badge": "Essential",
+        "stat": "85% First-Touch Open Rate",
+        "featured": true,
+        "description": "Greet new followers and first-time messengers with a tailored welcome card, orientation links, and starter discounts.",
+        "benefit": "Establishes a premium first impression and guides new leads to your highest-value offers instantly.",
+        "image": "/images/welcome_message.png"
+      },
+      {
+        "id": "carousel-template",
+        "name": "Carousel Template",
+        "category": "templates",
+        "categoryLabel": "Visual Commerce",
+        "badge": "Multi-Card",
+        "stat": "3x Click-Throughs",
+        "featured": true,
+        "description": "Showcase up to 10 swipeable cards in the DM with product imagery, titles, pricing, and direct checkout buttons.",
+        "benefit": "Creates an interactive shopping experience inside Instagram chat with direct links to purchase.",
+        "image": "/images/carousel_template.png"
+      },
+      {
+        "id": "button-template",
+        "name": "Button Template",
+        "category": "templates",
+        "categoryLabel": "Navigation",
+        "description": "Pair clear text messages with up to three actionable CTA buttons leading to URLs or automated sub-flows.",
+        "benefit": "Streamlines customer journeys with frictionless decision paths that eliminate typing friction.",
+        "image": "/images/button_template.png"
+      },
+      {
+        "id": "quick-replies",
+        "name": "Quick Replies Template",
+        "category": "templates",
+        "categoryLabel": "Interactive Chips",
+        "description": "Provide horizontal scrollable tap chips for quick answers, product preferences, and guided diagnostics.",
+        "benefit": "Reduces user effort to a single tap, dramatically boosting survey and quiz completion rates.",
+        "image": "/images/quick_replies_template.png"
+      },
+      {
+        "id": "share-template",
+        "name": "Share Template",
+        "category": "templates",
+        "categoryLabel": "Feed Amplification",
+        "description": "Directly embed your native Instagram posts or Reels into the DM conversation with full thumbnail previews.",
+        "benefit": "Revives catalog content and directs engaged chat users back to your top feed assets.",
+        "image": "/images/share_template.png"
+      },
+      {
+        "id": "media-template",
+        "name": "Media Template",
+        "category": "templates",
+        "categoryLabel": "Rich Media",
+        "description": "Deliver high-resolution images, lookbooks, and video attachments directly in direct messages.",
+        "benefit": "Captures visual attention immediately and delivers lead magnets or lookbooks in native formats.",
+        "image": "/images/media_template.png"
+      },
+      {
+        "id": "text-template",
+        "name": "Text Template",
+        "category": "templates",
+        "categoryLabel": "Direct Message",
+        "description": "Lightning-fast, personalized plain text responses engineered for natural 1-on-1 human conversations.",
+        "benefit": "Perfect for concise answers, personal confirmations, or warm conversational touchpoints.",
+        "image": "/images/text_template.png"
+      },
+      {
+        "id": "follow-gated",
+        "name": "Follow-Gated DMs",
+        "category": "growth",
+        "categoryLabel": "Follower Growth",
+        "badge": "Viral Engine",
+        "stat": "Verified Follow Check",
+        "featured": true,
+        "description": "Require users to follow your Instagram account before your automation releases exclusive links or promo codes.",
+        "benefit": "Directly converts comment traffic and resource downloaders into permanent, loyal followers.",
+        "image": "/images/follow_gated_dm.png"
+      },
+      {
+        "id": "super-profile",
+        "name": "Super Profile (Link in Bio)",
+        "category": "growth",
+        "categoryLabel": "Traffic Hub",
+        "badge": "High Conversion",
+        "stat": "14k Clicks/Month Average",
+        "featured": true,
+        "description": "Build a blazing-fast, mobile-optimized link-in-bio page directly inside DM Panda with built-in analytics.",
+        "benefit": "Replaces generic link-in-bio tools with a branded, trackable conversion engine for all Instagram traffic.",
+        "image": "/images/super_profile.png"
+      },
+      {
+        "id": "post-share",
+        "name": "Post Share Automation",
+        "category": "growth",
+        "categoryLabel": "Virality",
+        "description": "Automatically recognize when a user shares your post into DMs and trigger an instant reward or entry ticket.",
+        "benefit": "Incentivizes peer-to-peer sharing and viral word-of-mouth distribution.",
+        "image": "/images/post_share_automation.png"
+      },
+      {
+        "id": "reel-share",
+        "name": "Reel Share Automation",
+        "category": "growth",
+        "categoryLabel": "Virality",
+        "description": "Send an immediate automated thank you and resource link whenever a viewer forwards your Reel via DM.",
+        "benefit": "Turns passive content shares into active one-on-one business conversations.",
+        "image": "/images/reel_share_automation.png"
+      },
+      {
+        "id": "suggest-more",
+        "name": "Suggest More (Upsells)",
+        "category": "growth",
+        "categoryLabel": "E-commerce",
+        "description": "Intelligently propose relevant alternative items or complementary accessories with one-tap bundle savings.",
+        "benefit": "Increases average order value and customer satisfaction with contextual product discovery.",
+        "image": "/images/suggest_more.png"
+      },
+      {
+        "id": "comment-moderation",
+        "name": "Abusive Comment Moderation",
+        "category": "safety",
+        "categoryLabel": "Brand Protection",
+        "badge": "Automated Shield",
+        "stat": "0.18s Response Speed",
+        "featured": true,
+        "description": "Automatically filter, hide, or delete spam, offensive words, and malicious phishing links in real time.",
+        "benefit": "Maintains a clean brand reputation and safeguards your community 24/7 without manual moderation.",
+        "image": "/images/comment_moderation.png"
+      },
+      {
+        "id": "global-triggers",
+        "name": "Global Keyword Triggers",
+        "category": "safety",
+        "categoryLabel": "Master Engine",
+        "description": "Set account-wide keywords that activate auto-replies across all posts, Reels, Stories, and inbound DMs.",
+        "benefit": "Run synchronized omni-channel campaigns using a single memorable call to action.",
+        "image": "/images/global_triggers.png"
+      },
+      {
+        "id": "inbox-menu",
+        "name": "Inbox Menu",
+        "category": "safety",
+        "categoryLabel": "Customer Support",
+        "description": "A permanent, structured navigation menu inside direct messages that helps customers self-serve 24/7.",
+        "benefit": "Resolves common support queries instantly, reducing manual workload by over 70%.",
+        "image": "/images/inbox_menu.png"
+      },
+      {
+        "id": "convo-starters",
+        "name": "Conversation Starters",
+        "category": "safety",
+        "categoryLabel": "Inbound Inquiries",
+        "description": "Prompt first-time visitors with clickable FAQ buttons before they type their first question.",
+        "benefit": "Directs prospects down structured conversion pathways the moment they open your chat window.",
+        "image": "/images/conversation_starter.png"
+      },
+      {
+        "id": "public-comment-replies",
+        "name": "Public Comment Auto-Replies",
+        "category": "safety",
+        "categoryLabel": "Social Proof",
+        "description": "Post a public reply confirming that a DM was delivered, demonstrating responsiveness to the algorithm.",
+        "benefit": "Doubles comment thread volume, triggering Instagram explore recommendations and community trust.",
+        "image": "/images/comment_auto_reply.png"
+      }
+    ],
+    "hero_stats": [
+      {
+        "v": "0.38s",
+        "l": "Average Response"
+      },
+      {
+        "v": "100%",
+        "l": "Meta Approved API"
+      },
+      {
+        "v": "23 Tools",
+        "l": "Included in Pro"
+      },
+      {
+        "v": "24/7",
+        "l": "Zero-Latency Uptime"
+      }
+    ]
+  },
+  "pricing": {
+    "faqs": [
+      {
+        "q": "Is there a free trial or free tier available?",
+        "a": "Yes! We offer a Free Plan that is 100% free forever. It includes up to 1,000 actions every month, allowing you to test comment-to-DM replies, story automations, and quick responses completely free before deciding to upgrade. No credit card is required to sign up."
+      },
+      {
+        "q": "How does pricing per Instagram account work?",
+        "a": "Every subscription tier is dedicated to a single connected Instagram Professional account. If you manage multiple Instagram accounts for different brands, businesses, or clients, each account has its own independent subscription and separate action quota."
+      },
+      {
+        "q": "What happens if I reach my plan's action limits on Free or Basic?",
+        "a": "Free and Basic plans have hourly, daily, and monthly action limits. When you reach a limit, automations pause until the window resets. You can upgrade to Pro at any time for unlimited actions within Meta's official rate limits."
+      },
+      {
+        "q": "Will automating my Instagram account risk shadowbans or suspensions?",
+        "a": "No. DM Panda operates exclusively through Meta's official Graph API and Messenger API for Instagram with verified webhooks and OAuth permissions. We never ask for your Instagram password, and our queuing engine strictly respects Meta's official rate limits to ensure your profile remains 100% safe."
+      },
+      {
+        "q": "What are Meta Rate Limits and how do they protect my account?",
+        "a": "Meta enforces platform-level ceilings on how many actions an app can perform. Our queue engine respects those ceilings, which keeps your account compliant while maintaining steady delivery of your automations."
+      },
+      {
+        "q": "Do limits on one Instagram account affect my other connected accounts?",
+        "a": "No. Meta rate limits and DM Panda quotas are strictly isolated per Instagram account. A viral reel or massive surge in comments on Account A will never exhaust the quota or slow down automation delivery on Account B."
+      },
+      {
+        "q": "What is the difference between monthly and annual billing?",
+        "a": "Monthly billing renews every 30 days and yearly billing runs for 364 days from the verified payment time. Yearly billing includes a significant discount compared to paying monthly."
+      },
+      {
+        "q": "Which payment methods do you accept?",
+        "a": "We accept UPI, credit cards, debit cards, net banking, and popular wallets through our payment partners."
+      },
+      {
+        "q": "Can I upgrade, downgrade, or cancel my subscription anytime?",
+        "a": "Yes, absolutely. You have complete flexibility to upgrade, downgrade, or cancel your subscription at any time directly from the dashboard."
+      },
+      {
+        "q": "What exact products and values are bundled with Pro plans?",
+        "a": "Pro plans bundle complimentary bonus subscriptions to industry-leading AI, video editing, 4K streaming, and music tools dispatched by VV Deals, including Adobe Express, Sony LIV, ZEE5, OpenArt, Amazon Prime, Spotify, YouTube, CapCut, and Netflix."
+      },
+      {
+        "q": "How do I claim my bonus perks?",
+        "a": "Each individual full-price Pro plan subscription activated on a linked Instagram account qualifies for its respective VV Deals bonus perks. Vouchers are dispatched electronically within 24–48 hours after payment verification."
+      },
+      {
+        "q": "Is the offer valid if I use a discount coupon during checkout?",
+        "a": "Coupon ineligibility: the bonus perk offer is strictly not valid if any discount coupon or promo code is applied at checkout."
+      },
+      {
+        "q": "Are the bonus products guaranteed to be delivered or in stock?",
+        "a": "Bonus products are strictly subject to stock availability and are fulfilled by official third-party partners."
+      },
+      {
+        "q": "Is there a warranty on the bonus subscriptions and who handles support?",
+        "a": "Third-party warranty and fulfillment are handled by VV Deals. For issues with a voucher, contact the VV Deals support page linked in your dispatch email."
+      },
+      {
+        "q": "Can I reassign an active plan to a different Instagram account?",
+        "a": "Plans are bound to one Instagram account each. To move a plan, unlink the current account from Account Settings first, then link the new account."
+      },
+      {
+        "q": "Can I claim the offer multiple times if I upgrade multiple Instagram accounts?",
+        "a": "Yes. Each eligible full-price Pro plan on a separate Instagram account qualifies independently."
+      }
+    ],
+    "comparison": [
+      {
+        "feature": "Post comment auto-DM replies",
+        "free": true,
+        "basic": true,
+        "pro": true
+      },
+      {
+        "feature": "Reel comment auto-DM replies",
+        "free": true,
+        "basic": true,
+        "pro": true
+      },
+      {
+        "feature": "Story mention instant replies",
+        "free": true,
+        "basic": true,
+        "pro": true
+      },
+      {
+        "feature": "Super Profile link-in-bio",
+        "free": true,
+        "basic": true,
+        "pro": true
+      },
+      {
+        "feature": "Welcome message auto-DM",
+        "free": false,
+        "basic": true,
+        "pro": true
+      },
+      {
+        "feature": "Followers-only auto-DM gating",
+        "free": false,
+        "basic": true,
+        "pro": true
+      },
+      {
+        "feature": "Global keyword triggers",
+        "free": false,
+        "basic": true,
+        "pro": true
+      },
+      {
+        "feature": "Instagram Live comment automation",
+        "free": false,
+        "basic": false,
+        "pro": true
+      },
+      {
+        "feature": "Comment moderation & auto-hide",
+        "free": false,
+        "basic": false,
+        "pro": true
+      },
+      {
+        "feature": "Seen & Typing human simulation",
+        "free": false,
+        "basic": false,
+        "pro": true
+      },
+      {
+        "feature": "Unlimited Actions",
+        "free": false,
+        "basic": false,
+        "pro": true
+      },
+      {
+        "feature": "No DM Panda branding watermark",
+        "free": false,
+        "basic": false,
+        "pro": true
+      },
+      {
+        "feature": "Priority customer support",
+        "free": false,
+        "basic": false,
+        "pro": true
+      },
+      {
+        "feature": "1 Instagram account connection",
+        "free": true,
+        "basic": true,
+        "pro": true
+      },
+      {
+        "feature": "1,000 monthly automation actions",
+        "free": true,
+        "basic": false,
+        "pro": false
+      },
+      {
+        "feature": "5,000 monthly automation actions",
+        "free": false,
+        "basic": true,
+        "pro": false
+      },
+      {
+        "feature": "20,000+ monthly automation actions",
+        "free": false,
+        "basic": false,
+        "pro": true
+      },
+      {
+        "feature": "Meta Graph API compliant",
+        "free": true,
+        "basic": true,
+        "pro": true
+      }
+    ]
+  },
+  "about": {
+    "offers": [
+      {
+        "icon": "Layers",
+        "title": "Smart Automation",
+        "description": "Powerful automated message sequences for Reels, posts, and Stories that work 24/7."
+      },
+      {
+        "icon": "Users",
+        "title": "Audience Engagement",
+        "description": "Interactive Carousels, Quick Replies, and follow-gated conversion funnels."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Meta API Compliant",
+        "description": "Official Meta Graph API integrations ensuring zero risk and full account safety."
+      }
+    ]
+  },
+  "contact": {
+    "includes": [
+      "Your DM Panda login email and the Instagram username or linked account.",
+      "The dashboard section you used, such as Account Settings, My Plan, Transactions, or a specific automation editor.",
+      "Your payment ID and selected plan if the problem is billing-related.",
+      "The exact issue, expected result, and any error text you saw."
+    ],
+    "reasons": [
+      "Payment succeeded but your plan did not refresh.",
+      "Instagram linking or relinking did not complete.",
+      "An automation saved but is not firing as expected.",
+      "A reply template, keyword, or collect-email route is not behaving correctly."
+    ]
+  },
+  "login": {
+    "perks": [
+      {
+        "icon": "Sparkles",
+        "title": "Smart Automation",
+        "description": "Automated message sequences for Reels, posts, and Stories that work 24/7."
+      },
+      {
+        "icon": "BarChart3",
+        "title": "Performance Analytics",
+        "description": "Track engagement, clicks, and conversion performance in one dashboard."
+      },
+      {
+        "icon": "ShieldCheck",
+        "title": "Meta API Compliant",
+        "description": "Official Graph API integrations ensuring full account safety."
+      }
+    ]
+  }
+}

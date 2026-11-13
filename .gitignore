@@ -1,0 +1,30 @@
+# Dependencies
+frontend/node_modules/
+backend/vendor/
+
+# Build output
+frontend/dist/
+
+# Uploads (user-generated)
+backend/public/uploads/
+
+# Env / secrets
+.env
+.env.local
+*.env
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Reference / scraped (not needed for deployment)
+dmpanda.com/
+extract/
+tools/
+need.txt

@@ -1,0 +1,43 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-white text-gray-900 dark:bg-neutral-950 dark:text-gray-100 antialiased;
+  }
+}
+
+@layer utilities {
+  .scrollbar-none {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  .scrollbar-none::-webkit-scrollbar {
+    display: none;
+  }
+  .page-transition {
+    animation: fadeIn 0.4s ease-out;
+  }
+  .ig-story-ring-animated {
+    background: conic-gradient(
+      from 0deg,
+      #f09433,
+      #dc2743,
+      #bc1888,
+      #405de6,
+      #833ab4,
+      #f09433
+    );
+    animation: spin 4s linear infinite;
+  }
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
